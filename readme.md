@@ -9,4 +9,4 @@ This notebook gives a short example of how to use the Dataset API for:
 ## Usage
 
 Please look at the notebook here:
-[tensorflow-dataset/Large datasets with data augmentation.ipynb](tensorflow-dataset/Large datasets with data augmentation.ipynb)
+[tensorflow-dataset/Large_datasets_with_data_augmentation.ipynb](tensorflow-dataset/Large_datasets_with_data_augmentation.ipynb)
