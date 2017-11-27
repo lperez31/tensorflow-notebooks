@@ -3,3 +3,8 @@ tensorflow-dataset/data/*
 
 # Do not ignore empty.txt
 !tensorflow-dataset/data/empty.txt
+tensorflow-dataset/saved_training/checkpoint
+tensorflow-dataset/saved_training/graph.pbtxt
+*.index
+*.meta
+*.data-00000-of-00001
