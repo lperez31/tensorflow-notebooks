@@ -1,10 +1,6 @@
 tensorflow-dataset/.ipynb_checkpoints/
-tensorflow-dataset/data/*
+tensorflow-dataset/data/
+tensorflow-dataset/saved_model/
 
 # Do not ignore empty.txt
 !tensorflow-dataset/data/empty.txt
-tensorflow-dataset/saved_training/checkpoint
-tensorflow-dataset/saved_training/graph.pbtxt
-*.index
-*.meta
-*.data-00000-of-00001
